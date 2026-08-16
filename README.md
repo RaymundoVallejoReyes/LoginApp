@@ -31,6 +31,9 @@ La aplicación permite navegar entre ambas pantallas. En esta versión no se rea
 * Navegación de Inicio de sesión a Registro.
 * Navegación de Registro a Inicio de sesión.
 
+## Requisitos
+
+Raymundo Salomón Vallejo Reyes.
 
 ## Requisitos
 
